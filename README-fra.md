@@ -1,4 +1,4 @@
-# TAREA01
+# TAREA01        
 
 > Descripcion.
 (Primero abrimos una terminal, una vez abierta instalaremos el compilador GNU)
@@ -7,8 +7,11 @@
 
 -Ahora es una terminal nos ubicamos en el directorio donde guardamos nuestro programa, para compilar y ejecutar el programa escribimos:
 
-(gcc prog-01.c && ./a.out) 
+(gcc prog-01-fra.c && ./a.out)
 
 ## Creado con
 
-- C
+- C    
+
+
+
